@@ -18,9 +18,7 @@ end
 
 
 def using_flatten(array)
-  x=1 
-  y=2 
-  m=3 
+  
   array = [x, y, m]
 flat_array= array.flatten.to_u 
   
