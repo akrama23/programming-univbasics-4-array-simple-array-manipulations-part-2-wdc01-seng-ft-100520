@@ -25,7 +25,9 @@ flat_array = array.flatten
 end 
 
 def using_delete(array, string)
-  array = lov,liv,laugh
+
+  array =[ "lov","liv","laugh"
+  array.delete("lov")
 
 end 
 
