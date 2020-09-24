@@ -18,8 +18,7 @@ end
 
 
 def using_flatten(array)
-  x=[hi,ho,hoo]
-array = x
+array = [s,d,t,t]
   
 flat_array= array.flatten.to_s
   
