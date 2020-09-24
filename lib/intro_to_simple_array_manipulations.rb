@@ -18,7 +18,6 @@ end
 
 
 def using_flatten(array)
-  array = [x, y, m]
   x=[1,2,3]
   y=[4,5,6]
   m=[7,8,9]
