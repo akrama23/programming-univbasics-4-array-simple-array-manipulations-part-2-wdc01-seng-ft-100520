@@ -19,7 +19,7 @@ end
 
 def using_flatten(array)
   
-  array = [x, y, m]
+  
 flat_array= array.flatten.to_u 
   
 end 
