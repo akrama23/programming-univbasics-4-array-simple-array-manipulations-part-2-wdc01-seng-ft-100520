@@ -19,7 +19,7 @@ end
 
 def usning_flatten(array)
  
-array.flatten 
+flat_array = array.flatten 
   
 end 
 
