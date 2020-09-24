@@ -18,7 +18,11 @@ end
 
 
 def using_flatten(array)
-array = [s,d,t,t]
+array = [s,d,t]
+s= hello
+d= lunch
+t= loc
+
   
 flat_array= array.flatten
   
