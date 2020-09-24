@@ -18,11 +18,10 @@ end
 
 
 def using_flatten(array)
-  x=[1,2,3]
-  y=[4,5,6]
-  m=[7,8,9]
+  x=[hi,ho,hoo]
+array == x
   
-flat_array= array.flatten(x)
+flat_array= array.flatten.to_s
   
 end 
 
