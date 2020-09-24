@@ -25,7 +25,7 @@ flat_array = array.flatten
 end 
 
 def using_delete(array, string)
-  array.delete 
+  
 
 end 
 
