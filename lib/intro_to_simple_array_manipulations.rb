@@ -1,5 +1,5 @@
 def  using_concat(array, array1)
-  array.concat([0,1]) 
+  array.concat([2,3]) 
   
 end 
 
