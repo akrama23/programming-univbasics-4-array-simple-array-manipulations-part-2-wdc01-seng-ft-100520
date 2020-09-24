@@ -18,14 +18,7 @@ end
 
 
 def using_flatten(array)
-array = [s,d,t]
-s= hello
-d= lunch
-t= s, d 
 
-  
-flat_array= array.flatten
-  
 end 
 
 def using_delete(array, string)
