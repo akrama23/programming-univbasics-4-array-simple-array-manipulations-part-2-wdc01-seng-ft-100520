@@ -18,8 +18,8 @@ end
 
 
 def usning_flatten(array)
-  array1= [1,2,3]
-n
+  array= [1,2,3]
+array.flatten 
   
 end 
 
