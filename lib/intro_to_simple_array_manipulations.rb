@@ -20,7 +20,7 @@ end
 def using_flatten(array)
 array = [s,d,t,t]
   
-flat_array= array.flatten.to_s
+flat_array= array.flatten
   
 end 
 
