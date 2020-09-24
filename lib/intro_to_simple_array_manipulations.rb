@@ -18,6 +18,8 @@ end
 
 
 def usning_flatten(array)
+  array1= [1,2,3]
+ new_array= array.flatten
   
 end 
 
