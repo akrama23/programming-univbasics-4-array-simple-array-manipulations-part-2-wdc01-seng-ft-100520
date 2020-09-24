@@ -22,7 +22,7 @@ def using_flatten(array)
   y=[4,5,6]
   m=[7,8,9]
   
-flat_array= array.flatten(x).to_s  
+flat_array= array.flatten(x)
   
 end 
 
