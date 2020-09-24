@@ -21,10 +21,11 @@ def using_flatten(array)
 s = [ 1, 2, 3 ]           
 t = [ 4, 5, 6 ] 
 a = [ s, t, 9, 10 ] 
-flat_array = array.flatten  
+flat_array = array.flatten.to_s  
 end 
 
 def using_delete(array, string)
+  
 
 end 
 
