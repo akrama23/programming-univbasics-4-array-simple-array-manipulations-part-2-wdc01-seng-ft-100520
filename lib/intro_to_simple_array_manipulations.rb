@@ -18,7 +18,7 @@ end
 
 
 def usning_flatten(array)
-  array= [1,2,3]
+ 
 array.flatten 
   
 end 
