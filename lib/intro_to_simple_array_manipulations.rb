@@ -22,7 +22,6 @@ def usning_flatten(array)
   y=2 
   m=3 
   array = [x, y, m]
-  array.flatten 
  
 flat_array = array.flatten 
   
