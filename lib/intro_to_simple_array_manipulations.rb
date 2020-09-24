@@ -22,7 +22,7 @@ def using_flatten(array)
   y=2 
   m=3 
   array = [x, y, m]
-flat_array= array.flatten 
+flat_array= array.flatten.to_u 
   
 end 
 
